@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo DAV</string>
+    <string name="nome">NOME</string>
+    <string name="telefone">TELEFONE</string>
+    <string name="name">Name</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+</resources>
